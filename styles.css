@@ -1,0 +1,132 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 700 !important;
+
+}
+h2{
+    font-family: 'Montserrat';
+    color: #fff;
+    font-size: 3rem !important;
+    line-height: 1.5 !important;
+}
+.container-fluid{
+    padding: 3% 15% !important;
+}
+body{
+    font-family: 'Montserrat' !important;
+
+}
+.navbar-brand{
+    font-family: 'Ubuntu' !important;
+    font-size: 2.5rem !important;
+    font-weight: bold !important;
+}
+.navbar{
+    padding-bottom: 4.5rem !important;
+    padding: 8px 48px 72px;
+}
+.btn-lg{
+    font-weight: 400 !important;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.download-btn{
+    margin: 5% 3% 5% 0;
+}
+.image-title{
+    width: 60%;
+    transform: rotate(20deg);
+}
+#features{
+    padding: 15% 10%;
+}
+.dog-features {
+    text-align: center;
+}
+h3{
+    margin: 0 5%;
+}
+.feature-icons{
+    color: #ff4c68;
+
+}
+#testimonials{
+    /* padding: 10% 10%; */
+    text-align: center;
+    background-color: #ff4c68;
+
+}
+.image-testimonials{
+    border-radius: 100%;
+    margin: 20px;
+    width: 15%;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 10%;
+
+}
+.press-logo{
+    width: 16%;
+    margin: 20px 20px 20px 20px;
+}
+.carousel-item{
+    padding: 10% 10%;
+}
+.dog-rate{
+    color: #000 !important;
+}
+.pricing-header{
+    text-align: center;
+    color: #000;
+    padding-top: 120px;
+}
+.card{
+    height: 100%;
+}
+.row{
+    padding: 30px 50px;
+    padding-bottom: 50px !important;
+    margin-bottom: 120px;
+}
+#cta{
+    background-color: #ff4c68;
+    padding-bottom: 150px;
+}
+.true-love{
+    padding-top: 100px;
+    color: #fff;
+    font-family: 'Montserrat';
+}
+.find_the{
+ padding-top: 140px;
+}
+.Today{
+    color: #fff;
+    font-family: 'Montserrat';
+}
+.aligining-downbutton{
+    margin-top: 3rem;
+}
+.icons{
+    width: 10%;
+}
+#footer{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    /* margin: 20px 20px 20px 20px; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
